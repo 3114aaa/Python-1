@@ -4,14 +4,14 @@
 
 <details><summary>格式查看</summary>
 <p>
-  print([obj1],[obj2]...[,sep=""][,"endl=""][,file=sys.stdout])
+  print([obj1],[obj2]...[,sep=""][,"end=""][,file=sys.stdout])
   
-  obj表示内容，sep用于替换obj与obj的逗号（逗号默认输出为空格），endl结尾替换（print默认结尾为enter），file为打开文件对象(打开文件代码为'''变量名 = open("路径","w")''')
+  obj表示内容，sep用于替换obj与obj的逗号（逗号默认输出为空格），end结尾替换（print默认结尾会换行），file为打开文件对象(打开文件代码为'''变量名 = open("路径","w")''')
   
 </p>
 </details>
 
-## 二.定义变量及其类型
+## 二.定义变量及其类型的识别
 
 >[代码参考](https://github.com/3114aaa/Python/blob/main/%E5%8F%98%E9%87%8F%E7%B1%BB%E5%9E%8B.py)
 
@@ -20,6 +20,26 @@ python中定义变量格式: 变量名 = 值 （python会自动识别变量名)
 <details><summary>进阶学习</summary>
 <p>
   函数:type()可以识别变量类型，见代码参考中
+</p>
+</details>
+
+## 二.if语句，input函数的学习
+
+>[代码参考](https://github.com/3114aaa/Python/blob/main/if%E7%9A%84%E4%BD%BF%E7%94%A8.py)
+
+python if语句和VB一样
+
+<details><summary>格式查看</summary>
+<p>
+  
+  
+`  <b>第一种使用</b>
+  
+    if True：
+  
+      pass
+`
+  
 </p>
 </details>
 
