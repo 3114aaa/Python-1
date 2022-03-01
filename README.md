@@ -23,7 +23,7 @@ python中定义变量格式: 变量名 = 值 （python会自动识别变量名)
 </p>
 </details>
 
-## 二.if语句，input函数的学习
+## 三.if语句，input函数的学习
 
 >[代码参考](https://github.com/3114aaa/Python/blob/main/if%E7%9A%84%E4%BD%BF%E7%94%A8.py)
 
@@ -61,6 +61,23 @@ python if语句和VB一样
 ps:参考代码中有输入代码input,用于用户输入内容，不管用户输入什么都为字符串，例如用户输入123，
 python会默认"123",因此eval()函数是将最外边的双引号或引号去了，例如eval("123")等于123，eval("1+2")等于3（因为去了引号后为1+2，不是字符串，于是python就开始运算了） 
 
+## 四.格式化输出format()函数
+
+>[代码参考](https://github.com/3114aaa/Python/blob/main/%E6%A0%BC%E5%BC%8F%E5%8C%96%E8%BE%93%E5%87%BAformat().py)
+
+<details>
+和format功能类似：
+ - %d,%i 整型
+ - %o 八进制
+ - %x %X 十六进制
+ - %e 科学计数e
+ - %E 科学计数E
+ - %f 小数
+ - %c asc码
+ - %s 字符串
+用法(例如输出整型)：print("年龄:%d"%(18))
+<\details>
+  
 \n  换行
 
 \t  tab
