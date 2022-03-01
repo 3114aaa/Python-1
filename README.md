@@ -150,6 +150,7 @@ python会默认"123",因此eval()函数是将最外边的双引号或引号去�
   
   ## 七.list列表类型
   >[代码参考一](https://github.com/3114aaa/Python/blob/main/%E6%95%B0%E7%BB%84.py)
+  
   >[代码参考二](https://github.com/3114aaa/Python/blob/main/list2.py)
   
   python的数组创建方式很多，可以点击“代码参考一”了解具体情况
