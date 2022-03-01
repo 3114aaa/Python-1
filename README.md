@@ -1,4 +1,4 @@
-**一.print的使用**
+## 一.print的使用
 
 >[代码参考](https://github.com/3114aaa/Python/blob/main/print.py)
 
@@ -6,12 +6,12 @@
 <p>
   print([obj1],[obj2]...[,sep=""][,"endl=""][,file=sys.stdout])
   
-  obj表示内容，sep用于替换obj与obj的逗号（逗号默认space），endl结尾替换（print默认结尾为enter），file为打开文件对象(打开文件代码为'''变量名 = open("路径","w")''')
+  obj表示内容，sep用于替换obj与obj的逗号（逗号默认输出为空格），endl结尾替换（print默认结尾为enter），file为打开文件对象(打开文件代码为'''变量名 = open("路径","w")''')
   
 </p>
 </details>
 
-**二.定义变量及其类型**
+## 二.定义变量及其类型
 
 >[代码参考](https://github.com/3114aaa/Python/blob/main/%E5%8F%98%E9%87%8F%E7%B1%BB%E5%9E%8B.py)
 
