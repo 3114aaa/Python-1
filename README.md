@@ -138,13 +138,13 @@ python会默认"123",因此eval()函数是将最外边的双引号或引号去�
   
   字符串函数
   
-  ![1](https://github.com/3114aaa/Python/blob/main/%E5%AD%97%E7%AC%A6%E4%B8%B2%E5%87%BD%E6%95%B01.jpg)
+  ![1](img/字符串函数1.jpg)
   
-  ![2](https://github.com/3114aaa/Python/blob/main/%E5%AD%97%E7%AC%A6%E4%B8%B2%E5%87%BD%E6%95%B02.jpg)
+  ![2](img/字符串函数1.jpg)
   
-  ![3](https://github.com/3114aaa/Python/blob/main/%E5%AD%97%E7%AC%A6%E4%B8%B2%E5%87%BD%E6%95%B03.jpg)
+  ![3](img/字符串函数1.jpg)
   
-  ![4](https://github.com/3114aaa/Python/blob/main/%E5%AD%97%E7%AC%A6%E4%B8%B2%E5%87%BD%E6%95%B04.jpg)
+  ![4](img/字符串函数1.jpg)
   
   偷个懒，想看只能把图片下载下来了，以后有打出来
   
