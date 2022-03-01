@@ -149,7 +149,8 @@ python会默认"123",因此eval()函数是将最外边的双引号或引号去�
   偷个懒，直接放图片了
   
   ## 七.list列表类型
-  >[代码参考](https://github.com/3114aaa/Python/blob/main/%E6%95%B0%E7%BB%84.py)
+  >[代码参考一](https://github.com/3114aaa/Python/blob/main/%E6%95%B0%E7%BB%84.py)
+  >[代码参考二](https://github.com/3114aaa/Python/blob/main/list2.py)
   
   python的数组创建方式很多，可以点击“代码参考一”了解具体情况
   
@@ -204,9 +205,9 @@ extend() 添加多个对象
 
 insert() 插入对象
 
-remove() 插入删除
+remove() 删除特定值，有重复只删第一个
 
-pop()  按位置删除
+pop()  按位置删除，不填值删除最后一个
 
 clear() 删除所有对象
 
@@ -214,10 +215,10 @@ x = [1,2,3];y=x;print(y) >> [1,2,3] 复制列表，地址会相同
 
 copy() 复制列表，只复制一层，地址不同
 
-deepcopy() 复制列表，深层复制
+deepcopy() 复制列表，深层复制，地址不同
 
 sort()  排列顺序
 
 ps:可以通过函数id()来观察变量的地址
-
+详细见代码查看二
 
