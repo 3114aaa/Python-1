@@ -4,7 +4,8 @@
 <details><summary>格式查看</summary>
 <p>
   print([obj1],[obj2]...[,sep=""][,"endl=""][,file=sys.stdout])
-  obj表示内容，sep用于替换obj与obj的逗号（逗号默认space），endl结尾替换（print默认结尾为enter）
+  
+  obj表示内容，sep用于替换obj与obj的逗号（逗号默认space），endl结尾替换（print默认结尾为enter），file为打开文件对象(打开文件代码为'''变量名 = open("路径","w")''')
   
 </p>
 </details>
