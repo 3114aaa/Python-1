@@ -66,15 +66,15 @@ python会默认"123",因此eval()函数是将最外边的双引号或引号去�
 >[代码参考](https://github.com/3114aaa/Python/blob/main/%E6%A0%BC%E5%BC%8F%E5%8C%96%E8%BE%93%E5%87%BAformat().py)
 
 <details>
-和format功能类似：
- - %d,%i 整型
- - %o 八进制
- - %x %X 十六进制
- - %e 科学计数e
- - %E 科学计数E
- - %f 小数
- - %c asc码
- - %s 字符串
+  <summary>和format功能类似</summary>
+    .%d,%i 整型
+    .%o 八进制
+    .%x %X 十六进制
+    .%e 科学计数e
+    .%E 科学计数E
+    .%f 小数
+    .%c asc码
+    .%s 字符串
 用法(例如输出整型)：print("年龄:%d"%(18))
 <\details>
   
