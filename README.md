@@ -264,6 +264,7 @@ ps:while循环完后再执行else后的代码，遇到break将不会执行
   
     i =0
     while i < 10:
+      i+=1
       if i > 5:
         break
       print(i,end="")
@@ -276,6 +277,7 @@ ps:while循环完后再执行else后的代码，遇到break将不会执行
   
     i =0
     while i < 10:
+      i += 1
       if i = 5:
         continue
       print(i,end="")
