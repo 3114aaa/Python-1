@@ -1,11 +1,5 @@
 **print的使用**
-`#print([obj1],[obj2]...[,sep=""][,"endl=""][,file=sys.stdout])
-print("a", "b", "c", sep="")
-print("def", end="")
-wf = open("t.txt", "w")
-print("123", file=wf)#t.txt写入“123”
-wf.close()`
-
+[代码查看](https://github.com/3114aaa/Python/blob/main/print)
 
 '''
 \n  换行
