@@ -137,4 +137,10 @@ python会默认"123",因此eval()函数是将最外边的双引号或引号去�
   
   字符串的使用见代码参考二
   
+  字符串函数
+  ![](https://github.com/3114aaa/Python/blob/main/%E5%AD%97%E7%AC%A6%E4%B8%B2%E5%87%BD%E6%95%B01.jpg)
+  ![](https://github.com/3114aaa/Python/blob/main/%E5%AD%97%E7%AC%A6%E4%B8%B2%E5%87%BD%E6%95%B02.jpg)
+  ![](https://github.com/3114aaa/Python/blob/main/%E5%AD%97%E7%AC%A6%E4%B8%B2%E5%87%BD%E6%95%B03.jpg)
+  ![](https://github.com/3114aaa/Python/blob/main/%E5%AD%97%E7%AC%A6%E4%B8%B2%E5%87%BD%E6%95%B04.jpg)
+  
   
