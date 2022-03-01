@@ -1,6 +1,7 @@
 **print的使用**
 
-[代码查看](https://github.com/3114aaa/Python/blob/main/print)
+[代码参考](https://github.com/3114aaa/Python/blob/main/print)
+
 <details><summary>格式查看</summary>
 <p>
   print([obj1],[obj2]...[,sep=""][,"endl=""][,file=sys.stdout])
@@ -10,12 +11,26 @@
 </p>
 </details>
 
+**定义变量及其类型**
+
+[代码参考](https://github.com/3114aaa/Python/blob/main/%E5%8F%98%E9%87%8F%E7%B1%BB%E5%9E%8B)
+
+python中定义变量格式: 变量名 = 值 （python会自动识别变量名
+
 \n  换行
+
 \t  tab
+
 \\  \
+
 #\'  '
+
 #\"  "
+
 \0  空
+
 \ooo    八进制
+
 \xhh    十六进制
+
 '''
