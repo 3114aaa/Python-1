@@ -1,6 +1,6 @@
-#一.print的使用
+**一.print的使用**
 
-[代码参考](https://github.com/3114aaa/Python/blob/main/print)
+>[代码参考](https://github.com/3114aaa/Python/blob/main/print)
 
 <details><summary>格式查看</summary>
 <p>
@@ -11,9 +11,9 @@
 </p>
 </details>
 
-#二.定义变量及其类型
+**二.定义变量及其类型**
 
-[代码参考](https://github.com/3114aaa/Python/blob/main/%E5%8F%98%E9%87%8F%E7%B1%BB%E5%9E%8B)
+>[代码参考](https://github.com/3114aaa/Python/blob/main/%E5%8F%98%E9%87%8F%E7%B1%BB%E5%9E%8B)
 
 python中定义变量格式: 变量名 = 值 （python会自动识别变量名)
 
