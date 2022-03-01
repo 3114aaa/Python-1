@@ -294,11 +294,42 @@ python的for语句和传统的for语句不同，类似于C#的foreach,稍微理�
 
 for的两种形式
 
+一
+
     for  变量名 in 序列对象:
       执行代码
 
+二
 
     for  变量名 in 序列对象:
       执行代码A
     else:
       执行代码B
+
+ps:for也支持break与continue一样,就不多介绍了
+
+  <details><summary>for的进阶使用(range)</summary>
+  range中文翻译为范围，range(start, stop[, step])
+  参数说明：
+
+- start: 计数从 start 开始。默认是从 0 开始。例如range（5）等价于range（0， 5）;
+- stop: 计数到 stop 结束，但不包括 stop。例如：range（0， 5） 是[0, 1, 2, 3, 4]没有5
+- step：步长，默认为1。例如：range（0， 5） 等价于 range(0, 5, 1)
+  
+用于for中:
+  
+     for i in range(10):
+       print(i)
+     #输出0到9的数字
+  
+     for i in range(5,10):
+       print(i)
+     #输出5到9的数字
+  
+     for i in range(0,10,2):
+      print(i)
+     #输出结果为0,2,4,6,8
+     for i in range(10,0,-1):
+      print(i)
+     #输出结果为10到1的数字
+  </details>
