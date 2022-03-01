@@ -239,7 +239,7 @@ ps:可以通过函数id()来观察变量的地址
 敬请期待...
 
 ## 十一.while语句
->[代码参考一](https://github.com/3114aaa/Python/blob/main/while.py)
+>[代码参考](https://github.com/3114aaa/Python/blob/main/while.py)
 
 简单介绍：while是一种循环语句，当条件为True时，会一直循环（可配合break，continue使用）
 **while格式一
@@ -278,7 +278,7 @@ ps:while循环完后再执行else后的代码，遇到break将不会执行
     i =0
     while i < 10:
       i += 1
-      if i = 5:
+      if i == 5:
         continue
       print(i,end="")
   
@@ -287,3 +287,18 @@ ps:while循环完后再执行else后的代码，遇到break将不会执行
 `12346789`
   
   </details>
+## 十二.for语句
+>[代码参考](https://github.com/3114aaa/Python/blob/main/for.py)
+
+python的for语句和传统的for语句不同，类似于C#的foreach,稍微理一下还是能懂的
+
+for的两种形式
+
+    for  变量名 in 序列对象:
+      执行代码
+
+
+    for  变量名 in 序列对象:
+      执行代码A
+    else:
+      执行代码B
