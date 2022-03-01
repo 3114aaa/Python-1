@@ -259,6 +259,28 @@ ps:使用和VB一样，不过多介绍了
 ps:while循环完后再执行else后的代码，遇到break将不会执行
 
   
-  <details><summary>while的进阶使用()</summary>
-
+  <details><summary>while的进阶使用(break,continue)</summary>
+  <b>break(跳出循环)</b>
+  
+    i =0
+    while i < 10:
+      if i > 5:
+        break
+      print(i,end="")
+  
+<b>结果：</b>
+  
+`12345`
+  <b>continue(结束当前循环，进入下一次循环)</b>
+  
+    i =0
+    while i < 10:
+      if i = 5:
+        continue
+      print(i,end="")
+  
+<b>结果：</b>
+  
+`12346789`
+  
   </details>
