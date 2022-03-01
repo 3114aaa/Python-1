@@ -239,6 +239,7 @@ ps:可以通过函数id()来观察变量的地址
 敬请期待...
 
 ## 十一.while语句
+>[代码参考一](https://github.com/3114aaa/Python/blob/main/while.py)
 
 简单介绍：while是一种循环语句，当条件为True时，会一直循环（可配合break，continue使用）
 **while格式一
@@ -255,3 +256,9 @@ ps:使用和VB一样，不过多介绍了
     else:
       执行代码B
       
+ps:while循环完后再执行else后的代码，遇到break将不会执行
+
+  
+  <details><summary>while的进阶使用()</summary>
+
+  </details>
