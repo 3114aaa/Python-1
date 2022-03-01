@@ -78,25 +78,24 @@ python会默认"123",因此eval()函数是将最外边的双引号或引号去�
 >[代码参考](https://github.com/3114aaa/Python/blob/main/%E6%A0%BC%E5%BC%8F%E5%8C%96%E8%BE%93%E5%87%BAformat().py)
 >没有固定格式，具体看代码
 
-<details>
-  <summary>和format功能类似</summary>
-  <p>
-    |符号|作用
-    |----|----
-    |%d,%i| 整型
-    |%o| 八进制
-    |%x,%X| 十六进制
-    |%e |科学计数e
-    |%E |科学计数E
-    |%f |小数
-    |%c |asc码
-    |%s |字符串
+和format功能类似
   
+|符号   |作用     |
+|-------|---------|
+|%d %i  |整型     |
+|%o     |八进制   |
+|%x %X  |十六进制 |
+|%e     |科学计数e|
+|%E     |科学计数E|
+|%f     |小数     |
+|%c     |asc码    |
+|%s     |字符串   |
+    
 用法(例如输出整型)：print("年龄:%d"%(18))
   
   输出结果：年龄:18
   
-  ps:可以试着写写</p></details>
+  ps:可以试着写写
    
 ## 五.关于数值型
   ### （1）二、八、十六进制转十进制
@@ -138,9 +137,47 @@ python会默认"123",因此eval()函数是将最外边的双引号或引号去�
   字符串的使用见代码参考二
   
   字符串函数
-  ![](https://github.com/3114aaa/Python/blob/main/%E5%AD%97%E7%AC%A6%E4%B8%B2%E5%87%BD%E6%95%B01.jpg)
-  ![](https://github.com/3114aaa/Python/blob/main/%E5%AD%97%E7%AC%A6%E4%B8%B2%E5%87%BD%E6%95%B02.jpg)
-  ![](https://github.com/3114aaa/Python/blob/main/%E5%AD%97%E7%AC%A6%E4%B8%B2%E5%87%BD%E6%95%B03.jpg)
-  ![](https://github.com/3114aaa/Python/blob/main/%E5%AD%97%E7%AC%A6%E4%B8%B2%E5%87%BD%E6%95%B04.jpg)
   
+  ![1](https://github.com/3114aaa/Python/blob/main/%E5%AD%97%E7%AC%A6%E4%B8%B2%E5%87%BD%E6%95%B01.jpg)
   
+  ![2](https://github.com/3114aaa/Python/blob/main/%E5%AD%97%E7%AC%A6%E4%B8%B2%E5%87%BD%E6%95%B02.jpg)
+  
+  ![3](https://github.com/3114aaa/Python/blob/main/%E5%AD%97%E7%AC%A6%E4%B8%B2%E5%87%BD%E6%95%B03.jpg)
+  
+  ![4](https://github.com/3114aaa/Python/blob/main/%E5%AD%97%E7%AC%A6%E4%B8%B2%E5%87%BD%E6%95%B04.jpg)
+  
+  偷个懒，想看只能把图片下载下来了，以后有打出来
+  
+  ## list列表类型
+  >[代码参考一](https://github.com/3114aaa/Python/blob/main/%E6%95%B0%E7%BB%84.py)
+  
+  python的数组创建方式很多，可以点击“代码参考一”了解具体情况
+  
+  <details><summary>代码参考一输出结果</summary>
+      输出结果
+  
+      a []
+
+      a [1]
+
+      b [1, 2, 3]
+
+      c [1, 'b', 3]
+
+      d [1, [1, 2], '12']
+
+      d 12
+
+      d 1
+
+      e ['a', 'b', 'c', 'd', 'e', 'f']
+
+      f [-1, 0, 1, 2, 3, 4, 5, 6, 7, 8, 9]
+
+      g [1, 2, 3]
+
+      h [0, 1, 2, 3, 4]
+
+      i [5, 6, 7, 8, 9]
+    
+  </details>
