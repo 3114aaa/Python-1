@@ -1,4 +1,4 @@
-**一.print的使用
+#一.print的使用
 
 [代码参考](https://github.com/3114aaa/Python/blob/main/print)
 
@@ -11,7 +11,7 @@
 </p>
 </details>
 
-**二.定义变量及其类型
+#二.定义变量及其类型
 
 [代码参考](https://github.com/3114aaa/Python/blob/main/%E5%8F%98%E9%87%8F%E7%B1%BB%E5%9E%8B)
 
