@@ -1,4 +1,4 @@
-a = 1
+a = 1 #定义一个变量
 print(type(a))#此代码打印a的类型
 a = 1.1
 print(type(a))
