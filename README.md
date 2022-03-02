@@ -289,6 +289,7 @@ ps:while循环完后再执行else后的代码，遇到break将不会执行
   
   </details>
 ## 十二.for语句
+
 >[代码参考](https://github.com/3114aaa/Python/blob/main/for.py)
 
 python的for语句和传统的for语句不同，类似于C#的foreach,稍微理一下还是能懂的
