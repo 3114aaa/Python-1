@@ -1,4 +1,4 @@
-学前须知，此文档需要一定的VB基础
+学前须知，此文档需要一定的VB基础(第一次写博客不太好)
 ## 一.print的使用
 
 >[代码参考](https://github.com/3114aaa/Python/blob/main/print.py)
