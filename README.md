@@ -334,3 +334,5 @@ ps:for也支持break与continue一样,就不多介绍了
       print(i)
      #输出结果为10到1的数字
   </details>
+[返回目录](https://github.com/3114aaa/Python-directory)
+[下一章](https://github.com/3114aaa/Python-2)
